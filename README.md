@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parteek kumar
 =====================================================================================================================================
 
-Full Stack Developer 
-Working on: [Edgechains](https://github.com/arakoodev/EdgeChains)
+Full Stack Developer -->
+Currently Working on: [Edgechains](https://github.com/arakoodev/EdgeChains)
 --------------------
 
 🚀 Welcome to my GitHub profile! I'm Parteek Kumar, a final year student pursuing a Bachelor's degree in Information Technology. As a Full Stack Developer, I specialize in crafting dynamic and responsive web applications. Proficient in frontend technologies like HTML, CSS, and JavaScript, coupled with backend expertise in Node.js and Express.js, I bring a holistic approach to software development. My passion lies in building seamless user experiences and solving real-world problems through innovative solutions.
